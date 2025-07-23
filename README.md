@@ -1,6 +1,6 @@
 # 💫 About Me:
-I am an engineering student 
-Currently learning python and web development 
+I am an engineering student. 
+Currently learning python and web development
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/preetham_1209_gowda) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Preetham Gowda S ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PreethamGowda77) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:preetamgowdas44@gmail.com) 
