@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an engineering student. 
+I am an engineering student.            
 Currently learning python and web development
 
 ## 🌐 Socials:
