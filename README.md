@@ -3,7 +3,7 @@ I am an engineering student at Atria Institute of Technology.
 Currently learning python and web development
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/preetham_1209_gowda) [![LinkedIn](https://www.linkedin.com/in/preetam-gowda-s-320558389?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)](https://linkedin.com/in/Preetham Gowda S ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PreethamGowda77) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:preetamgowdas44@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/preetham_1209_gowda) [![LinkedIn](https://www.linkedin.com/in/preetam-gowda-s-320558389?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)]( https://www.linkedin.com/in/preetam-gowda-s-320558389) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/PreethamGowda77) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:preetamgowdas44@gmail.com) 
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
